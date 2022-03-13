@@ -2,8 +2,6 @@
 
 import 'package:ceiba/models/user_model.dart';
 import 'package:ceiba/providers/jsonplaceholder_provider.dart';
-import 'package:ceiba/services/jsonplaceholder_service.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
